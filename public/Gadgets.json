@@ -1,0 +1,226 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Compact and powerful laptop with a 13-inch display and premium build quality.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.4-inch FHD+"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "2",
+        "product_title": "MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "MacBook",
+        "price": 1199,
+        "description": "Lightweight laptop with Apple M2 chip, excellent for productivity.",
+        "Specification": [
+            "Apple M2 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13.6-inch Retina display"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "3",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "Convertible laptop with a 360-degree hinge and touch support.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.3-inch UHD OLED"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "4",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Laptops",
+        "price": 1499,
+        "description": "Business laptop with durable build and powerful specs.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "1TB SSD",
+            "14-inch FHD"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "5",
+        "product_title": "ASUS ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "Compact gaming laptop with AMD Ryzen 9 processor.",
+        "Specification": [
+            "AMD Ryzen 9",
+            "16GB RAM",
+            "1TB SSD",
+            "14-inch QHD 120Hz"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "6",
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "Elegant laptop with powerful performance and PixelSense display.",
+        "Specification": [
+            "Intel Core i5",
+            "8GB RAM",
+            "256GB SSD",
+            "13.5-inch PixelSense"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "7",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "Flagship smartphone with advanced camera system and ProMotion display.",
+        "Specification": [
+            "A16 Bionic chip",
+            "128GB storage",
+            "6.1-inch Super Retina XDR",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "8",
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "iPhone",
+        "price": 799,
+        "description": "Popular smartphone with A15 Bionic chip and impressive battery life.",
+        "Specification": [
+            "A15 Bionic chip",
+            "128GB storage",
+            "6.1-inch Super Retina XDR",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "9",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Phones",
+        "price": 1199,
+        "description": "High-end Android smartphone with S Pen support.",
+        "Specification": [
+            "Snapdragon 8 Gen 2",
+            "256GB storage",
+            "6.8-inch QHD+ AMOLED",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "10",
+        "product_title": "OnePlus 10 Pro",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Phones",
+        "price": 899,
+        "description": "Premium smartphone with a 120Hz display and fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 1",
+            "256GB storage",
+            "6.7-inch AMOLED 120Hz",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "11",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "Advanced health tracking and fitness capabilities.",
+        "Specification": [
+            "GPS + Cellular",
+            "44mm",
+            "Heart rate and blood oxygen monitoring",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "12",
+        "product_title": "Samsung Galaxy Watch5",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Smart Watches",
+        "price": 279,
+        "description": "Versatile smartwatch with health and fitness tracking.",
+        "Specification": [
+            "GPS",
+            "1.4-inch AMOLED",
+            "Health monitoring",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "13",
+        "product_title": "Garmin Forerunner 945",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Smart Watches",
+        "price": 599,
+        "description": "Advanced GPS watch designed for athletes.",
+        "Specification": [
+            "GPS",
+            "Heart rate monitoring",
+            "Water-resistant",
+            "Music storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "14",
+        "product_title": "Anker PowerCore 26800",
+        "product_image": "https://i.ibb.co.com/9Z8kCmL/pro-apps-software-development-eg0phbvwffwy-large.jpg",
+        "category": "Accessories",
+        "price": 129,
+        "description": "High-capacity portable charger with dual USB ports and PowerIQ technology.",
+        "Specification": [
+            "26800mAh capacity",
+            "Dual USB ports",
+            "PowerIQ technology",
+            "Compatible with phones and tablets"
+        ],
+        "availability": true,
+        "rating": 4.7
+    }
+]
